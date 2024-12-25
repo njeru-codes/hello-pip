@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+hello_pip/__init__.py
+hello_pip/main.py
+hello_pip.egg-info/PKG-INFO
+hello_pip.egg-info/SOURCES.txt
+hello_pip.egg-info/dependency_links.txt
+hello_pip.egg-info/top_level.txt
